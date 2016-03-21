@@ -1,6 +1,6 @@
 ---
 title: "What's new in C# 6"
-date: 2016-03-18 14:53:21
+date: 2016-03-21 14:53:21
 tags: C#
 ---
 
